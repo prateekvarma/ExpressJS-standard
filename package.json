@@ -1,0 +1,28 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateekvarma/ExpressJS-standard.git"
+  },
+  "author": "Prateek Varma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prateekvarma/ExpressJS-standard/issues"
+  },
+  "homepage": "https://github.com/prateekvarma/ExpressJS-standard#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
